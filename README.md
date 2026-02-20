@@ -5,4 +5,8 @@ THE CREATORS OF GYDROGEN DON'T HAVE RESPONSIBILITY IF YOUR PC FUCKS
 Is a GDI trojan made in C++ based in Kras.exe
 
 # Some credits
-The bytebeats is based in Purgatorium.exe by JhoPro https://github.com/ArTicZera/GDI-Worm.Win32.Purgatorium
+The bytebeats is based in Purgatorium.exe
+
+# OTHER CREDITS
+https://github.com/whypet
+https://github.com/ArTicZera
